@@ -19,5 +19,9 @@ Note: you must have administrator right to run this.
                 the specified date, using the region specific date format
                 typically "MM/DD/yyyy" or "DD/MM/yyyy"
                 
+ /f          Force delete or read only file.
+ 
+ /q          Quite or delete file without prompt
+                
  for more info please visit 
  https://ss64.com/nt/forfiles.html
